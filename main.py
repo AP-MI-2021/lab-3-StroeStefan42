@@ -2,6 +2,7 @@
 10.Toate numerele sunt pare.
 13.Toate numerele sunt formate din cifre prime.
 11. Toate numerele au același număr de biți de 1 în reprezentarea binară.
+
 """
 
 
